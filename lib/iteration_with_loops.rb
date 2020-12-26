@@ -10,7 +10,6 @@ def join_nested_strings(src)
       end
       element_index += 1 
     end
-    
     index_row += 1 
     new_array << string_only
   end
